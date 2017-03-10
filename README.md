@@ -1,0 +1,4 @@
+# ECEN303-Spring2017
+Random Signals and Systems Course at Texas A&amp;M University
+
+This course will introduce the student to the fundamental concepts of probability theory applied to engineering problems. Its goal is to develop the ability to construct and exploit probabilistic models in a manner that combines intuition and mathematical precision. The proposed treatment of probability includes elementary set operations, sample spaces and probability laws, conditional probability, independence, and notions of combinatorics. A discussion of discrete and continuous random variables, common distributions, functions, and expectations forms an important part of this course. Transform methods, limit theorems, modes of convergence, and bounding techniques are also covered. In particular, special consideration will be given to the law of large numbers and the central limit theorem. Examples from engineering, science, and statistics will be provided.
