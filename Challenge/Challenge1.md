@@ -12,7 +12,7 @@ Part 1: Write a method to simulate the flipping of a fair coin. Let us denote He
 The method should return `1` with probability `p = 0.5`, and it should return `0` with probability `1-p`.
 
 ```python
-def coinflip(p=0.5):
+sdef coinflip(p=0.5):
     # EDIT
     # Create method for biased coin flip
     #
