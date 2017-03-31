@@ -1,5 +1,5 @@
 Identity
 
-Name: 
-GitHubID: 
-NetID: 
+Name: Suqian Wang
+GitHubID: wangsuqian123
+NetID: wangsuqian123
