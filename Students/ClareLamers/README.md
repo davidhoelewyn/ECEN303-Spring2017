@@ -1,5 +1,5 @@
 Identity
 
-Name: 
-GitHubID: 
-NetID: 
+Name: Clare Lamers
+GitHubID: clarelamers
+NetID: Clare.Lamers
