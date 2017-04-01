@@ -25,6 +25,8 @@ def biasedcoinflip(p = 0.5):
 	
 	return result;
 
+# Flip a fair coin 1000 times, and 
+# estimate the empirical probability of Heads.
 
 heads= 0;
 
@@ -33,7 +35,7 @@ for i in range(iterations):
 	if result==HEAD:
 		heads+=1
 		
-#Calculate empirical probability
+
 print "Pr(heads): " + str(heads/float(iterations))
 print "Pr(tails): " + str((iterations-heads)/float(iterations))
 
